@@ -31,7 +31,7 @@ jobs:
             },
             "keywords": [],
             "author": "",
-            "license": "ISC",
+            "license": "MIT",
             "bugs": {
               "url": "https://github.com/jcansdale-test/npm-license-test/issues"
             },
